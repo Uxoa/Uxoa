@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/palomababot/](https://www.linkedin.com/in/palomababot/)
 
-- ⚡ Fun fact **I think i am a good colleague**
+- ⚡ Fun fact **I like to play drums**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
