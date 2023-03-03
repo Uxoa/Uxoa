@@ -22,14 +22,13 @@
 
 </h4>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uxoa&show_icons=true&locale=en&layout=compact" alt="uxoa" /></p>
-
-
+<h4 align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uxoa&show_icons=true&locale=en&layout=compact" alt="uxoa" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=uxoa&show_icons=true&locale=en" alt="uxoa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uxoa&" alt="uxoa" /></p>
-
+</h4>
 
 <h2 align="center">Connect with me:
 <p align="center">
