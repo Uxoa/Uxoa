@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Paloma</h1>
-<h2 align="center">A passionate Full Stack developer with more than 15 years experience</h2>
+
+
+<h2 align="center">A passionate Full Stack developer with more than 15 years experience
+<!--   GitHub stats graph -->
+</h2>
+
+
 
 <h4 align="center">
   <p>
  🔭 I’m currently studying [at FemCoders Factoria f5](https://factoriaf5.org/)
 
- 🌱 I’m currently learning **Laravel**
+ 🌱 I’m currently learning **Laravel** **React** **Java**
 
  📫 How to reach me **palomita@gmail.com**
 
@@ -15,6 +21,31 @@
   
 </p>
   </h4>
+  
+  
+  
+  
+  
+  
+
+
+| .                                                                                                                                             | .                                                                                                                              |
+|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| ![Paloma's github stats](https://github-readme-stats.vercel.app/api?username=uxoa&show_icons=true&theme=radical&include_all_commits=true) | ![Paloma's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uxoa&theme=radical&layout=compact) |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=uxoa"></img>
+
+
+
+[//]: # (<!--  2d history skills -->)
+
+[//]: # (<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>)
+
+
+
+
+  
+  
 
 <h3 align="center">Languages and Tools:</h3>
 <h4 align="center">
@@ -22,13 +53,6 @@
 
 </h4>
 
-<h4 align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uxoa&show_icons=true&locale=en&layout=compact" alt="uxoa" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=uxoa&show_icons=true&locale=en" alt="uxoa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uxoa&" alt="uxoa" /></p>
-</h4>
 
 <h2 align="center">Connect with me:
 <p align="center">
@@ -39,3 +63,10 @@
 <a href="https://instagram.com/holzkpft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="holzkpft" height="30" width="40" /></a>
 </p>
 </h2>
+
+
+  ### 📈 GitHub Activity Graph:
+
+[![Paloma's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=uxoa&theme=github-compact)](https://github.com/uxoa/github-readme-activity-graph)
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=uxoa" alt="visitors"/>   
