@@ -23,7 +23,7 @@
   </h4>
   
   
-  
+<h4 align="center">  
   
   
   
@@ -41,9 +41,7 @@
 
 [//]: # (<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>)
 
-
-
-
+</h4>
   
   
 
@@ -64,9 +62,12 @@
 </p>
 </h2>
 
+<h4 align="center">
 
   ### 📈 GitHub Activity Graph:
 
 [![Paloma's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=uxoa&theme=github-compact)](https://github.com/uxoa/github-readme-activity-graph)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=uxoa" alt="visitors"/>   
+  
+  </h4>
