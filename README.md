@@ -9,7 +9,7 @@
 
 <h4 align="center">
   <p>
- 🔭 I’m currently studying [at FemCoders Factoria f5](https://factoriaf5.org/)
+ 🔭 I just finished a Full Stack Web Developer BootCamp [at FemCoders Factoria f5](https://factoriaf5.org/)
 
  🌱 I’m currently learning **Laravel** **React** **Java**
 
