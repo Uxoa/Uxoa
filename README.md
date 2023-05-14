@@ -11,7 +11,7 @@
   <p>
  🔭 I just finished a Full Stack Web Developer BootCamp [at FemCoders Factoria f5](https://factoriaf5.org/)
 
- 🌱 I’m currently learning **Laravel** **React** **Java**
+ 🌱 I’m currently learning **Appian**
 
  📫 How to reach me **palomita@gmail.com**
 
