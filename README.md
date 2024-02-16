@@ -64,9 +64,7 @@
 
 <h4 align="center" style="color:#ffffff;">
 
-  ### 📈 GitHub Activity Graph:
-
-[![Paloma's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=uxoa&theme=github-compact)](https://github.com/uxoa/github-readme-activity-graph)
+ 
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=uxoa" alt="visitors"/>   
   
