@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paloma</h1>
 
 
-<h2 align="center">A passionate Full Stack developer with more than 15 years experience
+<h2 align="center">A passionate Junior JAVA Full Stack developer with more than 15 years experience
 <!--   GitHub stats graph -->
 </h2>
 
@@ -9,7 +9,7 @@
 
 <h4 align="center">
   <p>
-🌱 I’m currently learning **Java**
+🌱 I’m currently learning **JAVA**
     
  🔭 Last 2023 I succesfully studied a Full Stack Web Developer BootCamp [at FemCoders Factoria f5](https://factoriaf5.org/)
 
@@ -64,7 +64,7 @@
 
 <h4 align="center" style="color:#ffffff;">
 
- 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Uxoa)](https://github.com/Uxoa/github-readme-activity-graph)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=uxoa" alt="visitors"/>   
   
