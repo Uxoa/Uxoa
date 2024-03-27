@@ -2,6 +2,8 @@
 
 
 <h2 align="center">A passionate Junior JAVA Full Stack developer with more than 15 years experience
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Uxoa)](https://github.com/Uxoa/github-profile-trophy)
 <!--   GitHub stats graph -->
 </h2>
 
