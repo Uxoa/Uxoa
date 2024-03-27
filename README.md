@@ -1,10 +1,10 @@
-# 💫 About Me:
-🌱 I’m currently learning **JAVA**<br><br>🔭 Last 2023 I succesfully studied a Full Stack Web Developer BootCamp at FemCoders Factoria f5<br><br>📫 How to reach me palomita@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/palomababot/<br><br>⚡ Fun fact ** I like to play drums **
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Uxoa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
+# 💫 About Me:
+🌱 I’m currently learning **JAVA**<br><br>🔭 Last 2023 I succesfully studied a Full Stack Web Developer BootCamp at FemCoders Factoria f5<br><br>📫 How to reach me palomita@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/palomababot/<br><br>⚡ Fun fact ** I like to play drums **
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
