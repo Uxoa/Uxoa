@@ -38,6 +38,7 @@
 </p>
 
 <h2 align="center">Random Thoughts<br></h2>
+
 ![](https://quotes-github-readme.vercel.app/api?theme=monokai) 
 
 
