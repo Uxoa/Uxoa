@@ -37,7 +37,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> 
 </p>
 
-<h2 align="center">Random Thoughts<br></h2>
+<h2 align="left">Random Thoughts<br></h2>
 
 ![](https://quotes-github-readme.vercel.app/api?theme=monokai) 
 
