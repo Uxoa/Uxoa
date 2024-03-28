@@ -35,13 +35,10 @@
 <p align="center"> 
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> 
+
+
+
+[![](https://visitcount.itsvg.in/api?id=Uxoa&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 </p>
-
-<h2 align="left">Random Thoughts<br></h2>
-
-![](https://quotes-github-readme.vercel.app/api?theme=monokai) 
-
-
-[![](https://visitcount.itsvg.in/api?id=Uxoa&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
