@@ -38,11 +38,8 @@
 </p>
 
 <h2 align="center">Random Thoughts<br></h2>
-<p align="center"> 
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal) 
+![](https://quotes-github-readme.vercel.app/api?theme=monokai) 
 
-</p>
 
 [![](https://visitcount.itsvg.in/api?id=Uxoa&icon=0&color=0)](https://visitcount.itsvg.in)
 
