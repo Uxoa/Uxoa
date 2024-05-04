@@ -11,7 +11,7 @@
 </pre>    
 
 ```diff
-+ I’m currently studying **JAVA**
++ I’m currently studying **JAVA** aspiring to reach the Oracle Certification some day :D
 + Reach me at https://www.linkedin.com/in/palomababot/ 
 + Fun fact ** I like to play drums **
 ```
