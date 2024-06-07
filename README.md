@@ -18,7 +18,7 @@
 
 # GitHub Stats:
 
-| ![](https://github-readme-stats.vercel.app/api?username=Uxoa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uxoa&theme=merko&hide_border=true&layout=compact&bg_color=0E1117)](https://github.com/Uxoa/github-readme-stats) 
+| ![](https://github-readme-stats.vercel.app/api?username=Uxoa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uxoa&theme=merko&hide_border=true&layout=compact&bg_color=0E1117)](https://github.com/Uxoa/github-readme-stats) |
 | ---      | ---      | 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Uxoa&theme=radical&hide_border=true)
