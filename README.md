@@ -34,7 +34,7 @@
 <h2 align="center">😂 Random Dev Meme<br></h2>
 <p align="center"> 
 
-![random memer](https://rm.up.railway.app/)
+![random meme](https://rm.up.railway.app/)
 
 </p>
 
