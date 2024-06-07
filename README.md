@@ -34,7 +34,7 @@
 <h2 align="center">😂 Random Dev Meme<br></h2>
 <p align="center"> 
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> 
+<img src='https://js-api-random-meme-generator.netlify.app/' style="height: 400px;"/> 
 
 </p>
 
