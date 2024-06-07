@@ -31,10 +31,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=Uxoa&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=9)
 
 
-<h2 align="center">😂 Random Dev Meme<br></h2>
-<p align="center"> 
-
-![random meme](https://rm.up.railway.app/)
-
-</p>
 
