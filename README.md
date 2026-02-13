@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/016fb47d-0b91-40a1-b180-ee69561eeaf1" />
+  <img src="https://github.com/user-attachments/assets/016fb47d-0b91-40a1-b180-ee69561eeaf1" width="280"/>
 </p>
 
 ```diff
