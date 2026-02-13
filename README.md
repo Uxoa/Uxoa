@@ -1,4 +1,5 @@
 <pre align="center">                                                                         
+![palomadigital-13-2-2026](https://github.com/user-attachments/assets/016fb47d-0b91-40a1-b180-ee69561eeaf1)
 
 </pre>    
 
